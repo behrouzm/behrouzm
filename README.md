@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-banner-image-url.jpg](https://github.com/user-attachments/assets/33fde8f0-69b0-4cc7-95df-3c2dce6812bd)" alt="Banner" width="100%">
+  <img src="https://github.com/behrouzm/behrouzm/issues/1#issue-3253509174" alt="Banner" width="100%">
 </div>
 
 
