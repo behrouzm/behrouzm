@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Behrouz Mollashahi
 
-I'm a computational researcher specializing in data analysis and deep learning, currently completing my Master's in Bioinformatics at the University of Bologna. My work centers on applying advanced computational techniques to solve complex problems, with expertise in Python, machine learning, and modern development practices.
+I'm a bioinformatics student with research focus on data analysis and deep learning. My work centers on applying advanced computational techniques to solve complex problems. I am experienced in Python, machine learning, and modern development practices. I'm eager to learn more, contribute to the community, and help others learn while continuously developing my skills.
 
 ## 🚀 What I'm Working On
 
