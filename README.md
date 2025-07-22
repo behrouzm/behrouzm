@@ -2,9 +2,6 @@
   <img src="https://your-banner-image-url.jpg" alt="Banner" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://your-profile-picture-url.jpg" alt="Behrouz Mollashahi" width="200" style="border-radius: 50%;">
-</div>
 
 # 👋 Hi, I'm Behrouz Mollashahi
 
